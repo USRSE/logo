@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,7 +44,7 @@
      id="namedview6964"
      showgrid="false"
      inkscape:zoom="1.128125"
-     inkscape:cx="542.02094"
+     inkscape:cx="340.8021"
      inkscape:cy="266.41665"
      inkscape:window-x="116"
      inkscape:window-y="36"
@@ -829,20 +829,10 @@
      id="surface33409"
      transform="translate(-11.742146,-13.027343)">
     <path
-       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 229.51562,63.027344 c 0,0 0,0 -0.004,0 H 61.753906 V 367.58594 c 0,0 0,0.004 0.0039,0.004 l 167.757804,-0.004 z m 0,0"
-       id="path6831"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 61.882812,190.69531 c 0,-70.50781 57.156248,-127.667966 127.667968,-127.667966 h 79.32813 c 33.85937,0 66.33203,13.449218 90.27343,37.394536 23.94141,23.9414 37.39453,56.41406 37.39453,90.27343 v 49.22266 c 0,70.51172 -57.16015,127.66797 -127.66796,127.66797 h -79.32813 c -70.51172,0 -127.667968,-57.15625 -127.667968,-127.66797 z m 0,0"
-       id="path6833"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 61.753906,366.14844 V 479.90625 L 122.23438,366.14844 Z m 0,0"
-       id="path6835"
-       inkscape:connector-curvature="0" />
+       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.33333337"
+       d="M 66.681641 66.666016 L 66.681641 470.82812 L 66.681641 472.74414 L 66.681641 622.50586 L 146.30078 472.74805 L 290.36523 472.74414 L 342.84961 472.74414 C 436.86002 472.74414 513.07227 396.53711 513.07227 302.52148 L 513.07227 236.89062 C 513.07227 191.7448 495.13477 148.44726 463.21289 116.52539 C 431.29102 84.5983 387.99544 66.666016 342.84961 66.666016 L 290.35938 66.666016 L 66.681641 66.666016 z "
+       transform="matrix(0.75,0,0,0.75,11.742146,13.027343)"
+       id="path6831" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.87894183"
        d="m 320.39177,298.34766 c 0,0 -0.003,0 -0.003,0 H 61.745205 c 0,0 0,0 -0.003,0.004 l 0.003,33.83594 c 0,0.004 0,0.004 0.003,0.004 l 258.643555,-0.004 c 0,0 0.003,0 0.003,0 z m 0,0"

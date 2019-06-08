@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,7 +44,7 @@
      id="namedview6964"
      showgrid="false"
      inkscape:zoom="0.79770484"
-     inkscape:cx="406.99609"
+     inkscape:cx="122.42968"
      inkscape:cy="426.66667"
      inkscape:window-x="116"
      inkscape:window-y="36"
@@ -841,20 +841,10 @@
        id="path6829"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 229.51562,63.027344 c 0,0 0,0 -0.004,0 H 61.753906 V 367.58594 c 0,0 0,0.004 0.0039,0.004 l 167.757804,-0.004 z m 0,0"
-       id="path6831"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 61.882812,190.69531 c 0,-70.50781 57.156248,-127.667966 127.667968,-127.667966 h 79.32813 c 33.85937,0 66.33203,13.449218 90.27343,37.394536 23.94141,23.9414 37.39453,56.41406 37.39453,90.27343 v 49.22266 c 0,70.51172 -57.16015,127.66797 -127.66796,127.66797 h -79.32813 c -70.51172,0 -127.667968,-57.15625 -127.667968,-127.66797 z m 0,0"
-       id="path6833"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 61.753906,366.14844 V 479.90625 L 122.23438,366.14844 Z m 0,0"
-       id="path6835"
-       inkscape:connector-curvature="0" />
+       style="fill:#bab8b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.33333337"
+       d="M 133.90039 150.70312 L 133.90039 556.78125 L 133.90039 706.54102 L 213.51953 556.78516 L 357.58398 556.78125 L 410.06836 556.78125 C 504.07877 556.78125 580.29102 480.57227 580.29102 386.55664 L 580.29102 320.92773 C 580.29102 275.78191 562.35352 232.48437 530.43164 200.5625 C 498.50977 168.63541 455.21419 150.70312 410.06836 150.70312 L 357.58398 150.70312 L 357.57812 150.70312 L 304.29688 150.70312 L 133.90039 150.70312 z "
+       transform="matrix(0.75,0,0,0.75,-38.671875,-50)"
+       id="path6831" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 396.54687,299.84766 c 0,0 -0.004,0 -0.004,0 H 61.746094 c 0,0 0,0 -0.0039,0.004 l 0.0039,33.83594 c 0,0.004 0,0.004 0.0039,0.004 l 334.796866,-0.004 c 0,0 0.004,0 0.004,0 z m 0,0"
