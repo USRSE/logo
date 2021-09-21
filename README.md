@@ -3,16 +3,11 @@
 This is a repository of logos, presentation templates, and other associated
 branding files for the USRSE oranization.
 
-Files should generally be exported from the original [Adobe Illustrator files](ai_files).
+Current logo files (new logo as of September 2021) are in `current_logo/`.  These are based on the original files in `99-design-logo`.  
 
-Exported files:
+Other folders contain older logo files that are being kept in the repo for now to prevent links from breaking until transition to new logo is complete.  They should eventually be removed.  Do not use logos in directories other than `current_logo/` for new things.
 
- - [vector](vector) svg files
- - [png](png) png files
- 
-Non-logo files:
+If you would like a resource (different version of the logo, file type export, etc.) or have a question, please [open an issue](https://www.github.com/usrse/logo)
 
- - [stickers](stickers) has png versions of printed sticker files
- - [backgrounds](background)
 
-If you would like a resource or have a question, please [open an issue](https://www.github.com/usrse/logo)
+The pink in the logos is #741755.  The light gray is #b0b5b7.
