@@ -11,3 +11,5 @@ If you would like a resource (different version of the logo, file type export, e
 
 
 The pink in the logos is #741755.  The light gray is #b0b5b7.
+
+Closest pantone color (for printing) is 7650 C
