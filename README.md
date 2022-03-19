@@ -11,17 +11,16 @@ There are two main versions of the logo:
 
 ### Square
 
-![plain square](main_logo_transparent.png)
+<img src="current_logo/main_logo_transparent.png" width="250">
 
 The square can also have the organizational name to the side:
 
-![name side](logo_side_transparent.png)
+<img src="current_logo/logo_side_transparent.png" width="400">
 
 
 ### Circle
 
-![circle](current_logo/circular_logo.png)
-
+<img src="current_logo/circular_logo.png" width="250">
 
 
 ### Others
@@ -30,9 +29,9 @@ The square can also have the organizational name to the side:
 
 Two versions that incorporate the URL, useful for applications such as stickers.  These versions are not preferred for slides or websites.  
 
-![incorporated url](current_logo/logo_url_wide.png)
+<img src="current_logo/logo_url_wide.png" width="400">
 
-![url below](current_logo/logo_url.png)
+<img src="current_logo/logo_url.png" width="250">
 
 #### Callout
 
