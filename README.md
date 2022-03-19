@@ -1,7 +1,6 @@
 # US-RSE Logos
 
-This is a repository of logos, presentation templates, and other associated
-branding files for the US-RSE organization.  It is not for other graphics: only items with the US-RSE logo.  
+This is a repository of logos and other associated branding files with the logo for the US-RSE organization (https://us-rse.org).  It is not for other graphics: only items with the US-RSE logo.  
 
 Current logo files (new logo as of September 2021) are in `current_logo/`.  Do not use logos in directories other than `current_logo/` for new things.
 
