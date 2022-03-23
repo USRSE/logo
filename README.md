@@ -55,6 +55,23 @@ The text in the callout uses BITSUMISHI Geomanist.
 The text for the organization name in logo_side.pdf is Helvetica neue bold.  Other text (urls) also seems to be Helevetica neue, although sometimes squished a bit.  
 
 
+## Usage
+
+Usage guidance beyond US-RSE working groups or the steering committee:
+
+### OK to do
+
+* Make new sized files or image types from the pdf or ai files.
+* Use the logo to show you are a member of US-RSE.
+* Use the logo when describing or talking about US-RSE.
+* Use the logo on merchandise for personal use.
 
 
+### Not OK to do
+
+* Make versions of the logo that still include "US RSE" or the organization name (or are intended to represent US-RSE) that change, add, or remove logo elements (including colors and fonts).  
+* Use the logo in a way that implies the US-RSE Association endorses, approves of, or uses a product, service, website, or organization without prior approval (email contact@us-rse.org to get approval).
+* Sell merchandise with the logo.
+
+Have a question about logo use?  contact@us-rse.org
 
